@@ -1,4 +1,4 @@
-# 📦 Novara Cohort — Data Analytics Capstone Project
+# 📦 Novara Cohort — Data Analytics Capstone Project (Excel) 
 
 > A full end-to-end Excel analytics project analyzing **2,098 sales transactions** across four Nigerian cities to surface revenue, profitability, and customer insights through KPI calculations, pivot tables, and an interactive dashboard.
 
